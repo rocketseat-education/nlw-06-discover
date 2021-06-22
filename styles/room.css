@@ -46,7 +46,7 @@
 }
 
 #question-form form{
-    border: .2rem solid var(--grey-blue);
+    border: .2rem solid var(--gray-blue);
     padding: 1.6rem;
     border-radius: 0 .8rem .8rem .8rem;
 
@@ -63,7 +63,7 @@
 }
 
 #question-form form textarea::placeholder{
-    color: var(--grey-blue);
+    color: var(--gray-blue);
 }
 
 #question-form form footer{
